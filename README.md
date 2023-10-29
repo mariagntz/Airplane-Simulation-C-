@@ -1,1 +1,1 @@
-# oop3
+Simulation of an airplane. C++
